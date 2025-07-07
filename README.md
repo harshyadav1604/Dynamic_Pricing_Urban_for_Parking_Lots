@@ -2,7 +2,7 @@
 
 The link for the Google Collab code : https://colab.research.google.com/drive/1-fL60BhVz2awlhzHdzBGOmVlsYcJME5N?usp=sharing
 
-When you will Download the ipynb file it will be through VS Code.
+When you will Download the ipynb file it will be opened through VS Code and press "Open in Collab".
 
 Project Overview:
 This project analyzes urban parking lot occupancy data to understand usage patterns and predict Dynamic Pricing of each lot.  The dataset contains information about parking lot including capacity, real-time occupancy, vehicle types, traffic conditions, and timestamps. 
